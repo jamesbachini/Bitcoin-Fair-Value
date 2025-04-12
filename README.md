@@ -1,7 +1,7 @@
 
 # Bitcoin Fair Value Rust Script
 
-This Rust script connects to the Coinbase API to fetch the Bitcoin price for the last 24 hours and calculates a fair value based on moving averages.
+This Rust script connects to the Binance API to fetch the Bitcoin price for the last 24 hours and calculates a fair value based on moving averages.
 
 
 ## Usage
